@@ -1,7 +1,7 @@
 
 # CR-DNN
 
-Covariance-Regularised Deep Neural Networks for High-Dimensional Classification
+Deep Classification under Near-isotropy with Covariance Regularisation and High-dimensional Consistency
 
 ## Overview
 
